@@ -21,6 +21,7 @@ I'm not a expert on everything but I'm familliar with these and maybe some more 
 ![image](https://github.com/user-attachments/assets/a694e432-bbf9-41b6-b867-f238e0f28bfa)
 ![image](https://github.com/user-attachments/assets/89e62cd5-fa14-47fa-8b9d-0afc26006abe)
 ![image](https://github.com/user-attachments/assets/68965f84-2c13-4eeb-8474-8f60365dbc1e)
+![image](https://github.com/user-attachments/assets/68965f84-2c13-4eeb-8474-8f60365dbc1e)
 
 #
 
