@@ -26,7 +26,9 @@ I'm not a expert on everything but I'm familliar with these and maybe some more 
 
 
  ### 🔭 Working on: 
- My internship project Örebrocupen Kioskportal and Kioskinventering, utilizing AWS Lambda functions and a single-table design with DynamoDB
+ My internship project Örebrocupen Kioskportal and Kioskinventering, utilizing AWS Lambda functions and a single-table design with DynamoDB,
+Practicing Azure for certification! 
+See my profile here: https://learn.microsoft.com/sv-se/users/camillabjrkgren-0156/
 
 ### 💼 My Portfolio:
 https://camillabjorkgren.netlify.app
